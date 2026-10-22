@@ -1,0 +1,16 @@
+Verifi - runs fully on your computer. No internet, no API, no install.
+
+HOW TO RUN
+  1. Unzip this folder anywhere.
+  2. Double-click  index.html   (or double-click Open-Verifi.bat to force Chrome).
+  That's it.
+
+KEEP TOGETHER
+  index.html and the "ocr" folder must stay in the same folder.
+  (The ocr folder is only used for "Screenshot (OCR)"; everything else is inside index.html.)
+
+NOTES
+  - Message / Link / QR checks, Threat Lens, Library and Assistant all work offline.
+  - Screenshot OCR loads its engine the first time you use it (about 20 seconds), then it is quick.
+  - Your history is saved in this browser only (Threat Lens > Clear removes it).
+  - Explanations come from the built-in rule engine; no cloud AI or API key is used.
